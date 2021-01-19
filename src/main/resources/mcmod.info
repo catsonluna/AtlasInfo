@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AtlasInfo",
+  "name": "Atlas Info",
+  "description": "Shows you how much you atlas reviews you have watched and how many have been successful",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["pinkulu"],
+  "credits": "pinkulu",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
