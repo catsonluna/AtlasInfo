@@ -11,7 +11,7 @@ public class OnChat {
     @SubscribeEvent
     public void chatEvent(ClientChatReceivedEvent e) {
         String normalMsg = e.message.getUnformattedText();
-            if(normalMsg.startsWith("+2,000 Hypixel Experience (Positive Atlas Verdict)")){
+            if(normalMsg.startsWith("+1,500 Hypixel Experience (Positive Atlas Verdict)")){
                 System.out.println("Thing happened");
                 reportsSuccessful++;
                 saveConfig();
